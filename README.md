@@ -2,6 +2,122 @@
 
 Learning has been an exciting, challenging, and rewarding part of my life. Below are some souvenirs I have collected along the path.
 
+[University of Waterloo | Master of Applied Science in Electrical and Computer Engineering](#university-of-waterloo--master-of-applied-science-in-electrical-and-computer-engineering)
+
+[District University of Bogota | Specialization in Geographic Information Systems](#district-university-of-bogota--specialization-in-geographic-information-systems)
+
+[District University of Bogota | Bachelor degree in Geomatics Engineering](#district-university-of-bogota--bachelor-degree-in-geomatics-engineering)
+
+[IEEE ITSS | Young Professionals Travelling Fellow 2019](#ieee-itss--young-professionals-travelling-fellow-2019)
+
+[Esri Canada | Winning team at ESRI ECCE App Challenge 2019](#esri-canada--winning-team-at-esri-ecce-app-challenge-2019)
+
+[University of Waterloo | Jack Rosen Memorial Award for Environmental Innovation](#university-of-waterloo--jack-rosen-memorial-award-for-environmental-innovation)
+
+[Esri Canada | First runner up team at ESRI ECCE App Challenge 2018](#esri-canada--first-runner-up-team-at-esri-ecce-app-challenge-2018)
+
+[WSP | Power of ONE Ambassador](#wsp--power-of-one-ambassador)
+
+[Ministry of National Education in Colombia | Highest score in National Geosciences test](#ministry-of-national-education-in-colombia--highest-score-in-national-geosciences-test)
+
+[Deeplearning AI | Deep Learning Specialization](#deeplearning-ai--deep-learning-specialization)
+
+[University of Maryland | Entrepreneurship: Launching an Innovative Business](#university-of-maryland--entrepreneurship-launching-an-innovative-business)
+
+[Project Management Institute | Project Management Professional](#project-management-institute--project-management-professional)
+
+[GIS Certification Institute | Geographic Information Systems Professional](#gis-certification-institute--geographic-information-systems-professional)
+
+[Alteryx | Alteryx Designer Core](#alteryx--alteryx-designer-core)
+
+[University of Waterloo | Fundamentals of University Teaching Program](#university-of-waterloo--fundamentals-of-university-teaching-program)
+
+[Stanford University | Machine Learning](#stanford-university--machine-learning)
+
+[Deeplearning AI | Neural Networks and Deep Learning](#deeplearning-ai--neural-networks-and-deep-learning)
+
+[Deeplearning AI | Improving DNN: Hyperparameter tuning, Regularization and Optimization ](#deeplearning-ai--improving-dnn-hyperparameter-tuning-regularization-and-optimization)
+
+[Deeplearning AI | Structure Machine Learning Projects](#deeplearning-ai--structure-machine-learning-projects)
+
+[Deeplearning AI | Convolutional Neural Networks](#deeplearning-ai--convolutional-neural-networks)
+
+[Deeplearning AI | Sequence Models](#deeplearning-ai--sequence-models)
+
+[Johns Hopkins University | Data Analysis](#johns-hopkins-university--data-analysis)
+
+[University of Alberta | Introduction to Software Product Managment](#university-of-alberta--introduction-to-software-product-managment)
+
+[University of Alberta | Software Processes and Agile Practices](#university-of-alberta--software-processes-and-agile-practices)
+
+[University of Alberta | Client Needs and Software Requirements](#university-of-alberta--client-needs-and-software-requirements)
+
+[University of Maryland | Developing Innovative Ideas for New Companies](#university-of-maryland--developing-innovative-ideas-for-new-companies)
+
+[University of Maryland | Innovation for Entrepreneurs: From Idea to Marketplace](#university-of-maryland--innovation-for-entrepreneurs-from-idea-to-marketplace)
+
+[University of Maryland | New Venture Finance: Startup Funding for Entrepreneurs](#university-of-maryland--new-venture-finance-startup-funding-for-entrepreneurs)
+
+[University of Maryland | Entrepreneurship Capstone Project](#university-of-maryland--entrepreneurship-capstone-project)
+
+[Master of Project Academy | Training for the Project Management Professional Certification](#master-of-project-academy--training-for-the-project-management-professional-certification)
+
+[Open2Study | Strategic Management](#open2study--strategic-management)
+
+[Polytechnic West | Principles of Project Management](#polytechnic-west--principles-of-project-management)
+
+[Swiss Federal Institute of Technology Lausanne (EPFL) | Management of Urban Infrastructures](#swiss-federal-institute-of-technology-lausanne-epfl--managment-of-urban-infrastructures)
+
+[Georgia Institute of Technology | Energy 101: The Big Picture](#georgia-institute-of-technology--energy-101-the-big-picture)
+
+[University of North Carolina at Chapel Hill | Environmental Law and Policy ](#university-of-north-carolina-at-chapel-hill--environmental-law-and-policy)
+
+[Stanford University | GPS Satellite Navigation using Smartphones](#stanford-university--gps-satellite-navigation-using-smartphones)
+
+[Penn State University | Geospatial Intelligence](#penn-state-university--geospatial-intelligence)
+
+[Penn State University | Maps and the Geospatial Revolution](#penn-state-university--maps-and-the-geospatial-revolution)
+
+[Polytechnic University of Valencia | Mobile Mapping for Land Planning](#polytechnic-university-of-valencia--mobile-mapping-for-land-planning)
+
+[UCDavis | Geospatial and Environmental Analysis](#ucdavis--geospatial-and-environmental-analysis)
+
+[ESRI | Archiving Data in a Multiuser Geodatabase](#esri--archiving-data-in-a-multiuser-geodatabase)
+
+[ESRI | Building Models for GIS Analysis Using ArcGIS](#esri--building-models-for-gis-analysis-using-arcgis)
+
+[ESRI | Geodatabase Topology](#esri--geodatabase-topology)
+
+[ESRI | Going Places with Spatial Analysis](#esri--going-places-with-spatial-analysis)
+
+[ESRI | Managing Lidar Data Using LAS Datasets ](#esri--managing-lidar-data-using-las-datasets)
+
+[ESRI | Python Scripting for Geoprocessing Workflows](#esri--python-scripting-for-geoprocessing-workflows)
+
+[ESRI | Quality Control Using ArcGIS Data Reviewer](#esri--quality-control-using-arcgis-data-reviewer)
+
+[ESRI | The Location Advantage](#esri--the-location-advantage)
+
+[ESRI | Turning Data into Information Using ArcGIS](#esri--turning-data-into-information-using-arcgis)
+
+[ESRI | Using Python in ArcGIS Desktop](#esri--using-python-in-arcgis-desktop)
+
+[ESRI | Working with Geodatabase Domains and Subtypes in ArcGIS ](#esri--working-with-geodatabase-domains-and-subtypes-in-arcgis)
+
+[The University of Newcastle | Mining Engineering ](#the-university-of-newcastle--mining-engineering)
+
+[Udemy | Linux Training](#udemy--linux-training)
+
+[University of Waterloo | Expectations Teaching Assistant Workshop](#university-of-waterloo--expectations-teaching-assistant-workshop)
+
+[ESRI | Editing in ArcGIS Desktop](#esri--editing-in-arcgis-desktop)
+
+[ESRI | Do it yourself Geo Apps](#esri--do-it-yourself-geo-apps)
+
+
+
+
+
 [back to top](#awards-certifications-and-courses)
 
 
