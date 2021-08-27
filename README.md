@@ -39,6 +39,9 @@ Learning has been an exciting, challenging, and rewarding part of my life. Below
 
 ## Certifications
 
+#### Become a Machine Learning Specialist
+<img src="/certifications/CertificateOfCompletion_Become a Machine Learning Specialist.png" width="400" />
+
 #### Deeplearning AI | Deep Learning Specialization
 <img src="/certifications/dl-specialization.png" width="400" />
 
