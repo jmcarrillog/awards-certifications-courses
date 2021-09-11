@@ -39,8 +39,15 @@ Learning has been an exciting, challenging, and rewarding part of my life. Below
 
 ## Certifications
 
+
+#### Advance Your Skills in Deep Learning and Neural Networks
+<img src="/certifications/CertificateOfCompletion_Advance_Your_Skills_in_Deep_Learning_and_Neural_Networks.png" width="400" />
+
+#### Advance Your Skills in AI and Machine Learning
+<img src="/certifications/CertificateOfCompletion_Advance_Your_Skills_in_AI_and_Machine_Learning.png" width="400" />
+
 #### Become a Machine Learning Specialist
-<img src="/certifications/CertificateOfCompletion_Become a Machine Learning Specialist.png" width="400" />
+<img src="/certifications/CertificateOfCompletion_Become_a_Machine_Learning_Specialist.png" width="400" />
 
 #### Deeplearning AI | Deep Learning Specialization
 <img src="/certifications/dl-specialization.png" width="400" />
